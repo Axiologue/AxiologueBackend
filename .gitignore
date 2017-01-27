@@ -25,3 +25,14 @@ setup.sh
 # Private Keys #
 ################
 secret_keys.json
+
+# Static Files #
+################
+media/
+static/
+
+# Server Files #
+################
+axiologue_nginx.conf
+axiologue_uwsgi.ini
+uwsgi_params
